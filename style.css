@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: DarkSlateBlue;
+    color: white;
+}
+
+.post {
+    font-size: 25px;
+    padding: 30px;
+    background-color: aliceblue;
+    float: right;
+    margin-left: 300px;
+    border: double 10px darkslateblue;
+}
+
+a {
+    background-color: darkorange;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 50px 30px 50px 100px;
+}
+
+p {
+    width: 250px;
+}
